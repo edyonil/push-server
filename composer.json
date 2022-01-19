@@ -1,0 +1,13 @@
+{
+    "name": "edyonil/fcm" ,
+    "description": "FCM implementation server",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "author": [
+        {
+            "name": "edyonil",
+            "email": "edyonil@gmail.com"
+        }
+    ]
+}
